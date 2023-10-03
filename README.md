@@ -1,4 +1,5 @@
-### Hi there 👋
+Nathan Forrest
+This repository is a compilation of the labs I have completed at WSU Tech for CLD 138
 
 <!--
 **NathanForrest1/NathanForrest1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
